@@ -1,0 +1,40 @@
+.inventory{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: white;
+}
+
+body {
+    background-image: url("bg.jpg");
+    background-size: cover;
+   }
+
+.marketplace{
+    position:absolute;
+    text-align: center;
+    top: 50px;
+    left: 39%;
+}
+
+.miner{
+    display: none;
+    position:absolute;
+    text-align: center;
+    top: 400px;
+    left: 40%;
+}
+
+.header{
+    position:absolute;
+    text-align: center;
+    top: 0;
+    left: 30%;
+}
+
+.hit-button{
+    cursor:pointer;
+    text-align: center;
+    top: 250px;
+    position: relative;
+}
